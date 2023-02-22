@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rvngrd
+- 👋 Hi, I’m Iman, aka @rvngrd
 - 👀 I’m interested in Generative art
 - 🌱 I’m currently learning Django
 - 📫 How to reach me: rrvngrdd@gmail.com
